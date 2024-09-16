@@ -1,0 +1,30 @@
+h3 {
+    color: rgb(0, 91, 237);
+}
+
+/* Element Selector */
+h4 {
+    color: firebrick;
+}
+
+/* class and id selector */
+.my_class {
+    color: beige;
+}
+
+#my_id {
+    color: green;
+}
+
+/* group selector */
+h6,
+p {
+    color: deeppink;
+    text-align: center;
+}
+
+/* Universal selctor */
+* {
+    font-family: cursive;
+
+}
